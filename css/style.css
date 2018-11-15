@@ -1,0 +1,70 @@
+.Brad {
+    text-align: justify;     
+}
+
+
+.footer {
+    text-align: right; 
+    font-size: small; 
+    font-style: italic;
+}
+
+.header {
+    text-align: center; 
+    background-color: white;
+    color: gray; 
+    font-family: 'Charmonman', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    text-align: center; 
+    font-family: 'Comfortaa', cursive;
+    padding-bottom: 40px; 
+    padding-top: 30px;
+
+}
+
+#pagewrapper {
+    /* border: 1px black solid;  */
+    min-height:500px; 
+
+
+}
+
+#wholepage {
+    /* width:900px; */
+    margin-left:auto; 
+    margin-right: auto; 
+    /* background-color: darkcyan;  */
+    width:1320px; 
+}
+
+
+
+.photos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1320px;
+    align-content: center;
+} 
+
+
+.navbar {
+    float: left;
+    color: #15a79a;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+} 
+
+li {
+    list-style-type: none;
+
+}
+
+a {
+    color: #15a79a;
+}
+
